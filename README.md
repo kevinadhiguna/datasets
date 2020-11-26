@@ -1,2 +1,3 @@
-# indonesia-stock-price
-for research purpose only
+# Stock Price Dataset
+
+A number of stock price datasets from Kaggle. For research purpose only.
